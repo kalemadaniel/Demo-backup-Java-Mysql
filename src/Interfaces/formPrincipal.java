@@ -24,6 +24,8 @@ public class formPrincipal extends javax.swing.JFrame {
     private void initial(){
         // centrer le formulaire
         this.setLocationRelativeTo(null);
+        // cacher l'icone principal
+        lblicon.setVisible(false);
     }
 
     /**
