@@ -18,6 +18,10 @@ public class formPrincipal extends javax.swing.JFrame {
      */
     public formPrincipal() {
         initComponents(); 
+        initial();
+    }
+    
+    private void initial(){
         // centrer le formulaire
         this.setLocationRelativeTo(null);
     }

@@ -22,11 +22,11 @@ public class clsBackup {
 	//  NOTE: Creating Database Constraints
 	String dbHost = "localhost"; //host server IP
 	String dbPort = "3306"; // port server
-        String dbName = "bd_gestion_finance_hopital"; // name of your data base
+        String dbName = "hopital"; // name of your data base
         String dbUser = "root"; // username 
-        String dbPass = "123456"; // Password server
+        String dbPass = "MQ4k4z22MhB6vD8GvsrY87du75KiNW"; // Password server
         String dumpExe = "C:\\xampp\\mysql\\bin\\mysqldump";
-        String dumpSavePath="D:\\BackupFolder";
+        String dumpSavePath="D:\\hospitalBackupFolder";
    //   NOTE: Here the backup is saved in a folder called backup with the name backup.sql
         String fileName = "backUpFile_"+sdf.format(new Date().getTime())+".sql";
        
