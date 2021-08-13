@@ -58,7 +58,6 @@ public class formPrincipal extends javax.swing.JFrame {
         jPanel1.add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(250, 110, 440, 60));
 
         lblicon.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        lblicon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/pic_success.png"))); // NOI18N
         jPanel1.add(lblicon, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 290, 100, 90));
 
         lblmessage.setFont(new java.awt.Font("Dialog", 0, 24)); // NOI18N
@@ -91,6 +90,8 @@ public class formPrincipal extends javax.swing.JFrame {
             }
         });
         jPanel2.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/ic_autorenew_black_24dp.png"))); // NOI18N
         jPanel2.add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 40, 40));
 
         jLabel8.setFont(new java.awt.Font("Dialog", 0, 24)); // NOI18N
@@ -98,7 +99,7 @@ public class formPrincipal extends javax.swing.JFrame {
         jLabel8.setText("Sauvegarde");
         jPanel2.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 0, 150, 40));
 
-        jPanel1.add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(360, 490, 220, 40));
+        jPanel1.add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(360, 520, 220, 40));
 
         jPanel3.setBackground(new java.awt.Color(0, 90, 151));
 
@@ -128,9 +129,9 @@ public class formPrincipal extends javax.swing.JFrame {
             .addGap(0, 10, Short.MAX_VALUE)
         );
 
-        jPanel1.add(jPanel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 540, -1, 10));
+        jPanel1.add(jPanel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 580, -1, 10));
 
-        getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 940, 550));
+        getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 940, 590));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
