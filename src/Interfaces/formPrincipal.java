@@ -17,7 +17,9 @@ public class formPrincipal extends javax.swing.JFrame {
      * Creates new form formPrincipal
      */
     public formPrincipal() {
-        initComponents();
+        initComponents(); 
+        // centrer le formulaire
+        this.setLocationRelativeTo(null);
     }
 
     /**
