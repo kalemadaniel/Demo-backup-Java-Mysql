@@ -38,7 +38,6 @@ public class formPrincipal extends javax.swing.JFrame {
     private void initComponents() {
 
         jPanel1 = new javax.swing.JPanel();
-        jLabel9 = new javax.swing.JLabel();
         lblicon = new javax.swing.JLabel();
         lblmessage = new javax.swing.JLabel();
         lblemplacement = new javax.swing.JLabel();
@@ -49,6 +48,8 @@ public class formPrincipal extends javax.swing.JFrame {
         jLabel7 = new javax.swing.JLabel();
         jLabel8 = new javax.swing.JLabel();
         jPanel3 = new javax.swing.JPanel();
+        jLabel1 = new javax.swing.JLabel();
+        jLabel9 = new javax.swing.JLabel();
         jPanel4 = new javax.swing.JPanel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
@@ -57,35 +58,30 @@ public class formPrincipal extends javax.swing.JFrame {
         jPanel1.setBackground(new java.awt.Color(250, 250, 250));
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jLabel9.setFont(new java.awt.Font("Dialog", 0, 36)); // NOI18N
-        jLabel9.setForeground(new java.awt.Color(82, 72, 145));
-        jLabel9.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel9.setText("BACKUP");
-        jPanel1.add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(250, 110, 440, 60));
-
         lblicon.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jPanel1.add(lblicon, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 290, 100, 90));
+        lblicon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/pic_success.png"))); // NOI18N
+        jPanel1.add(lblicon, new org.netbeans.lib.awtextra.AbsoluteConstraints(310, 200, 100, 90));
 
         lblmessage.setFont(new java.awt.Font("Dialog", 0, 24)); // NOI18N
         lblmessage.setForeground(new java.awt.Color(0, 212, 89));
         lblmessage.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jPanel1.add(lblmessage, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 390, 890, 50));
+        jPanel1.add(lblmessage, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 300, 710, 50));
 
         lblemplacement.setForeground(new java.awt.Color(0, 204, 204));
         lblemplacement.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jPanel1.add(lblemplacement, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 440, 470, 30));
+        jPanel1.add(lblemplacement, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 350, 470, 30));
 
         lblduree.setForeground(new java.awt.Color(255, 97, 19));
         lblduree.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jPanel1.add(lblduree, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 250, 470, 30));
+        jPanel1.add(lblduree, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 160, 470, 30));
 
         lblfin.setForeground(new java.awt.Color(255, 97, 19));
         lblfin.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jPanel1.add(lblfin, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 220, 470, 30));
+        jPanel1.add(lblfin, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 130, 470, 30));
 
         lbldebut.setForeground(new java.awt.Color(255, 97, 19));
         lbldebut.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jPanel1.add(lbldebut, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 190, 470, 30));
+        jPanel1.add(lbldebut, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 100, 470, 30));
 
         jPanel2.setBackground(new java.awt.Color(250, 250, 250));
         jPanel2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
@@ -105,22 +101,21 @@ public class formPrincipal extends javax.swing.JFrame {
         jLabel8.setText("Sauvegarde");
         jPanel2.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 0, 150, 40));
 
-        jPanel1.add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(360, 520, 220, 40));
+        jPanel1.add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 430, 220, 40));
 
         jPanel3.setBackground(new java.awt.Color(0, 90, 151));
+        jPanel3.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
-        jPanel3.setLayout(jPanel3Layout);
-        jPanel3Layout.setHorizontalGroup(
-            jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 940, Short.MAX_VALUE)
-        );
-        jPanel3Layout.setVerticalGroup(
-            jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 60, Short.MAX_VALUE)
-        );
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/database.png"))); // NOI18N
+        jPanel3.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, 80, 60));
 
-        jPanel1.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 940, 60));
+        jLabel9.setFont(new java.awt.Font("Pristina", 1, 48)); // NOI18N
+        jLabel9.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel9.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel9.setText("BACKUP");
+        jPanel3.add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 30, 440, 60));
+
+        jPanel1.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 740, 90));
 
         jPanel4.setBackground(new java.awt.Color(53, 47, 93));
 
@@ -128,16 +123,16 @@ public class formPrincipal extends javax.swing.JFrame {
         jPanel4.setLayout(jPanel4Layout);
         jPanel4Layout.setHorizontalGroup(
             jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 940, Short.MAX_VALUE)
+            .addGap(0, 740, Short.MAX_VALUE)
         );
         jPanel4Layout.setVerticalGroup(
             jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 10, Short.MAX_VALUE)
         );
 
-        jPanel1.add(jPanel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 580, -1, 10));
+        jPanel1.add(jPanel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 510, 740, 10));
 
-        getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 940, 590));
+        getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 740, 520));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
@@ -184,6 +179,7 @@ public class formPrincipal extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel7;
     private javax.swing.JLabel jLabel8;
     private javax.swing.JLabel jLabel9;
