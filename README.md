@@ -1,7 +1,7 @@
 
 # Demo-backup-Java-Mysql
 
-##Solution
+## Solution
 
 C’est un plan de continuité d'activité ou un plan de reprise d'activité en cas de pannes pour un système d’information mais aussi dans le sens de système de secours.
 Il prend en paramètre les informations qui nous permet de faire une sauvegarde directement d’une interface java et faire une sauvegarde de la partie mysql :
@@ -13,6 +13,6 @@ Passe à la capture :
 
  ![capture java mysql](https://user-images.githubusercontent.com/51014164/129480657-d91d9042-2d30-48a6-aa6d-91a1f739cc50.JPG)
 
-##Elément à utiliser
+## Elément à utiliser
 - Netbeans
 - Xampp
