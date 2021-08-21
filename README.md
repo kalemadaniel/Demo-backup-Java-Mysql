@@ -33,7 +33,17 @@ Dites ce qu'il faut faire...
 
 ## GUI Solution
 
+En cliquant sur le bouton Sauvergarger
+
  ![capture java mysql](https://user-images.githubusercontent.com/51014164/129480657-d91d9042-2d30-48a6-aa6d-91a1f739cc50.JPG)
+
+Il creer un dossier sur le disque ``D:\hospitalBackupFolder``
+
+![dossier](https://user-images.githubusercontent.com/51014164/130316035-34838e06-5161-4ba9-bfa5-554966bbfb95.JPG)
+
+Il creer dans ce dossier ci haut le fichier sql de la sauvegarde
+
+![ba](https://user-images.githubusercontent.com/51014164/130316110-26c27896-0723-4760-bb1f-01a00426032c.JPG)
 
 _exemples :_
 * [java.swing](https://www.javatpoint.com/java-swing) - Palette (front-end)
