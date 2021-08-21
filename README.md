@@ -23,6 +23,7 @@ Les étapes pour installer le programme sont :
 - Cloner le dossier
 - Importer le projet
 - Changer les paramètres de connexion 
+- Executer le projet
 
 Dites ce qu'il faut faire...
 
@@ -48,7 +49,7 @@ _exemple :_
 
 ## Auteurs
 le(s) auteur(s) du projet est(sont) :
-* **Kalema daniel jonathan** _alias_ [@outout14](https://github.com/outout14)
+* **Kalema daniel jonathan** _alias_ [@kalemadaniel](https://github.com/kalemadaniel)
 
 ## License
 
