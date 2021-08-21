@@ -1,8 +1,6 @@
 
 # Demo-backup-Java-Mysql
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
-
 C’est un plan de continuité d'activité ou un plan de reprise d'activité en cas de pannes pour un système d’information mais aussi dans le sens de système de secours.
 
 ## Pour commencer
