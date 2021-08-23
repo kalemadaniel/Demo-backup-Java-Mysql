@@ -9,7 +9,7 @@ Il prend en paramètre les informations qui nous permet de faire une sauvegarde 
 
 ### Pré-requis
 
-Ce important pour commencer avec le projet :
+Ce qui est important pour contribuer au dévéloppement de ce projet :
 
 - Netbeans (https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
 - Xampp (https://www.apachefriends.org/fr/download.html)
@@ -22,6 +22,8 @@ Les étapes pour installer le programme sont :
 - Importer le projet
 - Changer les paramètres de connexion 
 - Executer le projet
+
+et si vous voulais constituer un executable par la suite il faut faire le ``clean and build ``
 
 Dites ce qu'il faut faire...
 
