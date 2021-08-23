@@ -9,7 +9,7 @@ Il prend en paramètre les informations qui nous permet de faire une sauvegarde 
 
 ### Pré-requis
 
-Ce qu'il est requis pour commencer avec votre projet...
+Ce important pour commencer avec le projet :
 
 - Netbeans (https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
 - Xampp (https://www.apachefriends.org/fr/download.html)
