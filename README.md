@@ -18,7 +18,7 @@ Ce qui est important pour contribuer au dévéloppement de ce projet :
 
 Les étapes pour installer le programme sont :
 
-- Cloner le dossier
+- Télécharger le dossier
 - Importer le projet
 - Changer les paramètres de connexion 
 - Executer le projet
