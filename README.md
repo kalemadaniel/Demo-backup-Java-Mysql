@@ -45,7 +45,7 @@ Il creer dans ce dossier ci haut le fichier sql de la sauvegarde
 
 ![ba](https://user-images.githubusercontent.com/51014164/130316110-26c27896-0723-4760-bb1f-01a00426032c.JPG)
 
-_exemples :_
+_les composants de construction :_
 * [java.swing](https://www.javatpoint.com/java-swing) - Palette (front-end)
 
 ## Contributing
