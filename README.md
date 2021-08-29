@@ -60,6 +60,7 @@ _Cette partie graphique va nous aider à :_
 - Simplifier la communication des informations à l'utilisateur
 - Fournir des éclaircissements supplémentaires pour permettre un engagement transparent à l'utilisateur
 - Éclairer des informations inattendues, sous-estimées ou inconnues auparavant
+- Offrir une évasion divertissante de la réalité, au moins pour une courte période
 
 
 ## Contributions
