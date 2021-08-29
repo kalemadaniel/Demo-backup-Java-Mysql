@@ -25,8 +25,6 @@ Les étapes pour installer le programme sont :
 
 ET si vous souhaitez constituer un executable par la suite il faut faire le ``clean and build ``
 
-Dites ce qu'il faut faire...
-
 ## Mode ligne de commande
 
 ``Execute Commond - C:\xampp\mysql\bin\mysqldump -h localhost --port 3306 -u root --password=MQ4k4z22MhB6vD8GvsrY87du75KiNW --add-drop-database -B hopital -r "D:\hospitalBackupFolder\backup1629034169007.sql``
