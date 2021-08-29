@@ -19,7 +19,7 @@ Ce qui est important pour contribuer au dévéloppement de ce projet :
 Les étapes pour installer le programme sont :
 
 **1. Télécharger le dossier**
-**2. **Importer le projet**
+**2. Importer le projet**
 **3. Changer les paramètres de connexion**
 **4. Executer le projet**
 
