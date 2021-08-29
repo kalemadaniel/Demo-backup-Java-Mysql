@@ -55,9 +55,10 @@ _les composants de construction :_
 * [java.swing](https://www.javatpoint.com/java-swing) - Palette (front-end)
 
 
-_ cette partie graphique va nous aider à :_
+_Cette partie graphique va nous aider à :_
 
 - Simplifier la communication des informations à l'utilisateur
+- Fournir des éclaircissements supplémentaires pour permettre un engagement transparent à l'utilisateur
 
 
 
