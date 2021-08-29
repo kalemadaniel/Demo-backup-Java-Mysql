@@ -1,7 +1,7 @@
 
 # Demo-backup-Java-Mysql
 
-C’est un plan de continuité d'activité ou un plan de reprise d'activité en cas de pannes pour un système d’information mais aussi dans le sens de système de secours que vous pouvez instaurez dans votre programme java utilisant mysql comme SGBD.
+  >*C’est un plan de continuité d'activité ou un plan de reprise d'activité en cas de pannes pour un système d’information mais aussi dans le sens de système de secours que vous pouvez instaurez dans votre programme java utilisant mysql comme SGBD.* 
 
 ## Pour commencer
 
