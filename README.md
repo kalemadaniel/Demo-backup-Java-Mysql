@@ -48,7 +48,7 @@ Il creer dans ce dossier ci haut le fichier sql de la sauvegarde
 _les composants de construction :_
 * [java.swing](https://www.javatpoint.com/java-swing) - Palette (front-end)
 
-## Contributing
+## Contribution
 
 Si vous souhaitez contribuer, vous pouvez le faire facilement car le projet est documenter pour savoir comment le faire.
 
