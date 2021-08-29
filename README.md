@@ -34,6 +34,9 @@ Comme pour notre cas, faire le backup en mode ligne de commande, on tappe la com
 
 ## GUI Solution
 
+![capture java mysql 1](https://user-images.githubusercontent.com/51014164/131240155-1a427d72-64f6-411d-a24e-e226da4ba761.JPG)
+
+
 En cliquant sur le bouton Sauvergarger
 
  ![capture java mysql](https://user-images.githubusercontent.com/51014164/129480657-d91d9042-2d30-48a6-aa6d-91a1f739cc50.JPG)
