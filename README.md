@@ -68,6 +68,8 @@ J’accorde aux utilisateurs les droits d'utiliser, d'étudier, de modifier et d
 
 ## Versions
 
+ca correspond à un état donné de l'évolution du logiciel et le versionnage.
+
 **Dernière version stable :** 1.0
 
 ## Auteurs
