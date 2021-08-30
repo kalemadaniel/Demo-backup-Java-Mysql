@@ -67,8 +67,7 @@ _Cette partie graphique va nous aider à :_
 J’accorde aux utilisateurs les droits d'utiliser, d'étudier, de modifier et de distribuer le logiciel et son code source à quiconque et à n'importe quelle fin.
 
 ## Versions
-Listez les versions ici 
-_exemple :_
+
 **Dernière version stable :** 1.0
 
 ## Auteurs
