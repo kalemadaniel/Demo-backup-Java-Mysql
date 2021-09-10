@@ -37,7 +37,7 @@ L'application se presente comme suit à l'ouverture
 
 ![capture java mysql 1](https://user-images.githubusercontent.com/51014164/131240155-1a427d72-64f6-411d-a24e-e226da4ba761.JPG)
 
-
+https://m.youtube.com/watch?v=1nEluKUOic
 En cliquant sur le bouton Sauvergarger
 
  ![capture java mysql](https://user-images.githubusercontent.com/51014164/129480657-d91d9042-2d30-48a6-aa6d-91a1f739cc50.JPG)
@@ -51,8 +51,8 @@ Il creer dans ce dossier ci haut le fichier sql de la sauvegarde
 ![ba](https://user-images.githubusercontent.com/51014164/130316110-26c27896-0723-4760-bb1f-01a00426032c.JPG)
 
 _les composants de construction :_
-* [java.swing](https://www.javatpoint.com/java-swing) - Palette (front-end)
 
+* [java.swing](https://www.javatpoint.com/java-swing) - Palette (front-end)
 
 _Cette partie graphique va nous aider à :_
 
